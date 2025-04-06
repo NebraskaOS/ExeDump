@@ -1,4 +1,4 @@
-# EXEd
+# EXEd 1.0.0
 Get information about any EXE file from the windows 1.0 Era (MZ and PE)
 
 compile like
