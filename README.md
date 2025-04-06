@@ -8,7 +8,7 @@ g++ -o exed main.cpp mz.cpp -I.
 
 run like
 ```
-./exed exe file path
+./exedump exe file path
 ```
 
 # How to add more instructions:
